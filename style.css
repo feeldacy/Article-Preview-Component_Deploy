@@ -129,7 +129,7 @@ button:hover {
     }
 
     .container {
-        margin: 50px;
+        margin: 30px;
         flex-direction: column;
         width: 100%;
     }
